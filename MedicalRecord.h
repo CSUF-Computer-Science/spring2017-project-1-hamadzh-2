@@ -29,7 +29,7 @@ public:
 		// TO BE COMPLETED
 	}
 
-	// Load information from a text file with the given filename..
+	// Load information from a text file with the given filename.
 	void buildMedicalRecordfromDatafile(string filename) {
 		ifstream myfile(filename);
 
