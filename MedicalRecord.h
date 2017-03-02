@@ -48,7 +48,7 @@ public:
 			throw invalid_argument("Could not open file " + filename);
 	}
 
-	// return the most frequently appearing name in the text file
+	// return the most frequently appearing name in the text file.
 	string mostPopularName() {
 		int max = uniqueBabyNameCount[0];
 		int max_index = 0;
