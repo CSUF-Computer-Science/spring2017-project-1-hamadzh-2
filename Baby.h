@@ -15,7 +15,7 @@ public:
 		weight = w;
 	}
 
-	// a "getter" method
+	// a "getter" method.
 	int getWeight() {
 		return weight; // TO BE COMPLETED
 	}
